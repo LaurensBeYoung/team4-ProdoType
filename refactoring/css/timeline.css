@@ -88,6 +88,7 @@
 .time-line-card-title {
     font-size: 30px;
     font-weight: 600;
+    color: var(--primary-color);
     /* ecllipse if over 1 line */
     overflow: hidden;
     text-overflow: ellipsis;
